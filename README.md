@@ -24,6 +24,9 @@
 
 09장 부록
 
+10장 Numpy, Pandas, PyTorch
 
 # 참고
 📘 [**점프 투 파이썬**](https://wikidocs.net/book/1)
+
+📘 외부 학습 자료(Numpy, Pandas, PyTorch)
